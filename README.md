@@ -25,7 +25,7 @@ Bibliotecas Python: findspark, pyspark, pandas, plotly
 
 #Requisitos de Hardware
 
-Ram 4GB+
+Ram 8GB+
 
 Rom 128GB+
 
