@@ -1,6 +1,6 @@
 #  BigData - Spark e Pandas
 
-E aí, pessoal! Já pensou em transformar a sua base de dados de clientes e equipamentos em insights valiosos para o seu negócio? Com essa aplicação, você vai conseguir mergulhar fundo nos seus dados e descobrir informações incríveis que vão te ajudar a tomar decisões mais estratégicas.
+Já pensou em transformar a sua base de dados de clientes e equipamentos em insights valiosos para o seu negócio? Com essa aplicação, você vai conseguir mergulhar fundo nos seus dados e descobrir informações incríveis que vão te ajudar a tomar decisões mais estratégicas.
 Este projeto é sobre uma assistência técnica que atende restaurantes e lavanderias na Região Metropolitana do Recife, este projeto busca identificar padrões, tendências e oportunidades de melhoria no serviço aos clientes. As análises permitirão otimizar a gestão, prever demandas, melhorar a eficiência dos chamados e, consequentemente, aumentar a satisfação dos clientes.
 
 ## O que essa aplicação faz?
