@@ -1,8 +1,21 @@
 #  BigData - Spark e Pandas
 
+E aí, pessoal! Já pensou em transformar a sua base de dados de clientes e equipamentos em insights valiosos para o seu negócio? Com essa aplicação, você vai conseguir mergulhar fundo nos seus dados e descobrir informações incríveis que vão te ajudar a tomar decisões mais estratégicas.
 Este projeto é sobre uma assistência técnica que atende restaurantes e lavanderias na Região Metropolitana do Recife, este projeto busca identificar padrões, tendências e oportunidades de melhoria no serviço aos clientes. As análises permitirão otimizar a gestão, prever demandas, melhorar a eficiência dos chamados e, consequentemente, aumentar a satisfação dos clientes.
 
-##  Tecnologias Utilizadas
+## O que essa aplicação faz?
+
+De forma simples essa aplicação:
+
+Une todos os seus dados: Junta as informações de clientes, pagamentos e equipamentos em um único lugar, facilitando a análise.
+Cria relatórios personalizados: Gera gráficos e tabelas que mostram tudo o que você precisa saber sobre seus clientes, como os tipos de equipamentos mais solicitados, os clientes que mais chamam para reparos e muito mais.
+Identifica oportunidades de melhoria: Com base nos dados, você consegue identificar quais equipamentos precisam de mais atenção, quais clientes são os mais fiéis e quais regiões possuem maior demanda.
+Facilita a tomada de decisões: Todas as informações são apresentadas de forma clara e concisa, ajudando você a tomar decisões mais assertivas para o seu negócio.
+## Como funciona?
+
+A mágica acontece por trás das cortinas, com a ajuda do PySpark! Essa ferramenta poderosa permite processar grandes volumes de dados de forma eficiente, transformando-os em informações úteis.
+
+### Tecnologias Utilizadas
 
 Apache Spark: um framework de computação distribuída de código aberto para processamento de dados em larga escala. O Apache Spark é utilizado no projeto para processar e analisar grandes quantidades de dados.
 
